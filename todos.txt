@@ -1,2 +1,11 @@
 
-Master pythonMaster python
+Make soup.
+Clean the code
+Buy the painting
+New order
+We just made a default arg
+Get the car.
+Buy grocery.
+Master Python
+Anything
+test
